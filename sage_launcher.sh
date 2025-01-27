@@ -67,7 +67,7 @@ export ORIGAMI_PATH="/home/user/SaGe-Browser-Fuzzer/origami/bin/"
 export FAVOCADO_PATH="/home/user/SaGe-Browser-Fuzzer/favocado/Generator/Run/"
 
 # Check for webkit deps
-dpkg -l | grep -qw libwebkitgtk-6.0-4 || (sudo apt-get update && sudo apt-get install -y libwebkitgtk-6.0-4)
+#dpkg -l | grep -qw libwebkitgtk-6.0-4 || (sudo apt-get update && sudo apt-get install -y libwebkitgtk-6.0-4)
 dpkg -l | grep -qw libavif-dev || (sudo apt-get update && sudo apt-get install -y libavif-dev)
 
 # Function to check Wayland in GDM3 configuration
