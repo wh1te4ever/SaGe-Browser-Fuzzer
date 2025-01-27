@@ -154,7 +154,7 @@ for option in "${ADDR[@]}"; do
 done
 
 # Build and install WebKitGTK using Ninja as per user-selected options, removing any previous extracted folder
-BUILD_COMMAND="rm -rf webkitgtk-${WEBKITGTK_VERSION} && wget https://webkitgtk.org/releases/webkitgtk-${WEBKITGTK_VERSION}.tar.xz && tar xf webkitgtk-${WEBKITGTK_VERSION}.tar.xz && cd webkitgtk-${WEBKITGTK_VERSION} && mkdir build && cd build && cmake -DENABLE_ADDRESS_SANITIZER=ON -DCMAKE_CXX_FLAGS='-fsanitize=address -fno-omit-frame-pointer' -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_SKIP_RPATH=ON -DPORT=GTK -DLIB_INSTALL_DIR=/usr $CONVERTED_OPTIONS -Wno-dev -G Ninja .. && ninja && sudo ninja install"
+BUILD_COMMAND="rm -rf webkitgtk-${WEBKITGTK_VERSION} && wget https://webkitgtk.org/releases/webkitgtk-${WEBKITGTK_VERSION}.tar.xz && tar xf webkitgtk-${WEBKITGTK_VERSION}.tar.xz && cd webkitgtk-${WEBKITGTK_VERSION} && mkdir build && cd build && cmake -DENABLE_ADDRESS_SANITIZER=ON -DCMAKE_CXX_FLAGS='-fsanitize=address -fno-omit-frame-pointer -fno-optimize-sibling-calls"' -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_SKIP_RPATH=ON -DPORT=GTK -DLIB_INSTALL_DIR=/usr $CONVERTED_OPTIONS -Wno-dev -G Ninja .. && ninja && sudo ninja install"
 execute_command "$BUILD_COMMAND" "Building and installing WebKitGTK ${WEBKITGTK_VERSION} with Ninja"
 
 # Function to remove a swapfile
