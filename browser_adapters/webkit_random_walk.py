@@ -13,6 +13,9 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import UnexpectedAlertPresentException
 from selenium.common.exceptions import NoAlertPresentException
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.common.utils import free_port
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 
 
 class WebKitRandomVisitWebsitesBrowser(FuzzedBrowser):
@@ -133,8 +136,9 @@ class WebKitRandomVisitWebsitesBrowser(FuzzedBrowser):
             # self.browser.execute_script("window.open('','_blank');")
             self.close_all_tabs()
             self.browser.switch_to.window(self.browser.window_handles[0])
-            self.browser.execute_script("window.open('','_blank');")
-            self.browser.switch_to.window(self.browser.window_handles[1])
+            actions = ActionChains(self.browser)
+            actions.send_keys(Keys.CONTROL + 't').perform()
+            self.browser.switch_to.window(self.browser.window_handles[-1])
         except UnexpectedAlertPresentException as e:
             self.browser.switch_to.alert.accept()
             self.new_page()
