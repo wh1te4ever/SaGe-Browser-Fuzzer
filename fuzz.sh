@@ -3,7 +3,7 @@
 cd ~/SaGe-Browser-Fuzzer
 
 #export ASAN_OPTIONS=detect_invalid_alignment=0
-export ASAN_OPTIONS="allocator_may_return_null=1 coverage=1"
+export ASAN_OPTIONS="allocator_may_return_null=1 coverage=1:coverage_dir=${HOME}/SaGe-Browser-Fuzzer/coverage"
 
 export LD_LIBRARY_PATH="/home/ubuntu/SaGe-Browser-Fuzzer/webkitgtk-2.47.3/build/lib"
 #export NO_XVFB=true
@@ -18,4 +18,4 @@ export WEBKIT_BINARY_PATH="/home/ubuntu/SaGe-Browser-Fuzzer/webkitgtk-2.47.3/bui
 export WEBKIT_WEBDRIVER_PATH="/home/ubuntu/SaGe-Browser-Fuzzer/webkitgtk-2.47.3/build/bin/WebKitWebDriver"
 
 cd $SAGE_PATH
-./sage_launcher.sh --fuzzer sage --webkitgtk 64 --timerpurge 10
+./sage_launcher.sh --fuzzer sage --webkitgtk 16 --timerpurge 10
