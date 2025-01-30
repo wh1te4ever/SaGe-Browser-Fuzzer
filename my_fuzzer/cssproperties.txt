@@ -7788,6 +7788,10 @@
 <cssproperty_cursor> = all-scroll
 <cssproperty_cursor> = zoom-in
 <cssproperty_cursor> = zoom-out
+<cssproperty_cursor> = -webkit-grab
+<cssproperty_cursor> = -webkit-grabbing
+<cssproperty_cursor> = -webkit-zoom-in
+<cssproperty_cursor> = -webkit-zoom-out
 <caret-color> = <cssproperty_caret-color>
 <cssproperty_caret-color> = auto
 <cssproperty_caret-color> = <color>
