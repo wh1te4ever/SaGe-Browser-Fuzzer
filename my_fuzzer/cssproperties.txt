@@ -1871,6 +1871,14 @@
 <cssproperty_font-family> = Courier, monospace
 <cssproperty_font-family> = Ahem
 <cssproperty_font-family> = system-ui
+<cssproperty_font-family> = emoji
+<cssproperty_font-family> = math
+<cssproperty_font-family> = fangsong
+<cssproperty_font-family> = ui-serif
+<cssproperty_font-family> = ui-sans-serif
+<cssproperty_font-family> = ui-monospace
+<cssproperty_font-family> = ui-rounded
+<cssproperty_font-family> = -webkit-body
 <cssproperty_font-family> = 'Tinos', Times, serif
 <cssproperty_font-family> = 'Times New Roman'
 <cssproperty_font-family> = 'Courier New'
