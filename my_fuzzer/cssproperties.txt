@@ -1966,6 +1966,8 @@
 <cssproperty_font-size> = inherit
 <cssproperty_font-size> = initial
 <cssproperty_font-size> = <fuzzint>%
+<cssproperty_font-size> = -webkit-xxx-large
+<cssproperty_font-size> = -webkit-ruby-text
 
 <cssproperty_font-size-adjust> = none
 <cssproperty_font-size-adjust> = <fuzzint>
