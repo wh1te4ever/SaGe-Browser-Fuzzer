@@ -84,6 +84,8 @@
 <aria-autocomplete_value> = list
 
 <aria-atomic_value> = <boolean>
+<aria-braillelabel_value> = <attributestring>
+<aria-brailleroledescription_value> = <attributestring>
 
 <aria-busy_value> = <boolean>
 

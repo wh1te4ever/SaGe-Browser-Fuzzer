@@ -1011,6 +1011,8 @@
 <attribute_aria-activedescendant> = aria-activedescendant="<aria-activedescendant_value>"
 <attribute_aria-autocomplete> = aria-autocomplete="<aria-autocomplete_value>"
 <attribute_aria-atomic> = aria-atomic="<aria-atomic_value>"
+<attribute_aria-braillelabel> = aria-braillelabel="<aria-braillelabel_value>"
+<attribute_aria-brailleroledescription> = aria-brailleroledescription="<aria-brailleroledescription_value>"
 <attribute_aria-busy> = aria-busy="<aria-busy_value>"
 <attribute_aria-checked> = aria-checked="<aria-checked_value>"
 <attribute_aria-controls> = aria-controls="<aria-controls_value>"

@@ -16010,6 +16010,8 @@ freememory();
 <Element>.setAttribute("aria-activedescendant", "<aria-activedescendant_value>");
 <Element>.setAttribute("aria-autocomplete", "<aria-autocomplete_value>");
 <Element>.setAttribute("aria-atomic", "<aria-atomic_value>");
+<Element>.setAttribute("aria-braillelabel", "<aria-braillelabel_value>");
+<Element>.setAttribute("aria-brailleroledescription", "<aria-brailleroledescription_value>");
 <Element>.setAttribute("aria-busy", "<aria-busy_value>");
 <Element>.setAttribute("aria-checked", "<aria-checked_value>");
 <Element>.setAttribute("aria-controls", "<aria-controls_value>");
