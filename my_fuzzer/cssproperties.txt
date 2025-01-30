@@ -547,6 +547,10 @@
 
 <cssproperty_-webkit-mask-position> = <fuzzint>px <fuzzint>px
 
+<cssproperty_-webkit-mask-position-x> = <fuzzint>px
+
+<cssproperty_-webkit-mask-position-y> = <fuzzint>px
+
 <cssproperty_-webkit-mask-repeat> = no-repeat
 <cssproperty_-webkit-mask-repeat> = round repeat
 <cssproperty_-webkit-mask-repeat> = repeat
@@ -10301,6 +10305,8 @@
 <cssproperty_-webkit-mask-image> = ""
 <cssproperty_-webkit-mask-origin> = ""
 <cssproperty_-webkit-mask-position> = ""
+<cssproperty_-webkit-mask-position-x> = ""
+<cssproperty_-webkit-mask-position-y> = ""
 <cssproperty_-webkit-mask-repeat> = ""
 <cssproperty_-webkit-mask-size> = ""
 <cssproperty_-webkit-mask> = ""

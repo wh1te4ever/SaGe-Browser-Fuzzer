@@ -4078,6 +4078,8 @@
 <CSSStyleDeclaration>.setProperty("-webkit-mask-image", "<cssproperty_-webkit-mask-image>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-origin", "<cssproperty_-webkit-mask-origin>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-position", "<cssproperty_-webkit-mask-position>");
+<CSSStyleDeclaration>.setProperty("-webkit-mask-position-x", "<cssproperty_-webkit-mask-position-x>");
+<CSSStyleDeclaration>.setProperty("-webkit-mask-position-y", "<cssproperty_-webkit-mask-position-y>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-repeat", "<cssproperty_-webkit-mask-repeat>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-repeat-y", "<cssproperty_-webkit-mask-repeat-y>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-size", "<cssproperty_-webkit-mask-size>");

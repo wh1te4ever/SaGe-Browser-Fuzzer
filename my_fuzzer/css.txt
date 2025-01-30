@@ -209,6 +209,8 @@
 <cssproperty_name> = -webkit-mask-image
 <cssproperty_name> = -webkit-mask-origin
 <cssproperty_name> = -webkit-mask-position
+<cssproperty_name> = -webkit-mask-position-x
+<cssproperty_name> = -webkit-mask-position-y
 <cssproperty_name> = -webkit-mask-repeat
 <cssproperty_name> = -webkit-mask-repeat-y
 <cssproperty_name> = -webkit-mask-size
@@ -710,6 +712,8 @@
 <cssproperty_value> = <cssproperty_-webkit-mask-image>
 <cssproperty_value> = <cssproperty_-webkit-mask-origin>
 <cssproperty_value> = <cssproperty_-webkit-mask-position>
+<cssproperty_value> = <cssproperty_-webkit-mask-position-x>
+<cssproperty_value> = <cssproperty_-webkit-mask-position-y>
 <cssproperty_value> = <cssproperty_-webkit-mask-repeat>
 <cssproperty_value> = <cssproperty_-webkit-mask-repeat-y>
 <cssproperty_value> = <cssproperty_-webkit-mask-size>
@@ -1211,6 +1215,8 @@
 <cssproperty> = -webkit-mask-image: <cssproperty_-webkit-mask-image>
 <cssproperty> = -webkit-mask-origin: <cssproperty_-webkit-mask-origin>
 <cssproperty> = -webkit-mask-position: <cssproperty_-webkit-mask-position>
+<cssproperty> = -webkit-mask-position-x: <cssproperty_-webkit-mask-position-x>
+<cssproperty> = -webkit-mask-position-y: <cssproperty_-webkit-mask-position-y>
 <cssproperty> = -webkit-mask-repeat: <cssproperty_-webkit-mask-repeat>
 <cssproperty> = -webkit-mask-repeat-y: <cssproperty_-webkit-mask-repeat-y>
 <cssproperty> = -webkit-mask-size: <cssproperty_-webkit-mask-size>
