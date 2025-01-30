@@ -1,0 +1,52 @@
+#!/bin/bash
+
+sudo apt install -y ruby-full \
+  libcairo2-dev \
+  libgcrypt20-dev \
+  libtasn1-6-dev \
+  libharfbuzz-dev \
+  libsqlite3-dev \
+  libgtk-4-dev \
+  libsoup-3.0-dev \
+  libmanette-0.2-dev \
+  libxslt-dev \
+  gi-docgen \
+  libdrm-dev \
+  libenchant-2-dev \
+  libwoff-dev \
+  libsystemd-dev \
+  liblcms2-dev \
+  libseccomp-dev \
+  gstreamer1.0-plugins-base \
+  gstreamer1.0-tools \
+  libgstreamer-plugins-base1.0-dev \
+  libgstreamer-plugins-good1.0-dev \
+  gstreamer1.0-plugins-base \
+  gstreamer1.0-plugins-good \
+  gstreamer1.0-plugins-bad \
+  gstreamer1.0-plugins-ugly \
+  gperf \
+  libsecret-1-dev \
+  flite1-dev \
+  libhyphen-dev \
+  libavif-dev \
+  unifdef \
+  gettext \
+  libgstreamer1.0-dev \
+  libgstreamer-plugins-base1.0-dev \
+  libgstreamer-plugins-bad1.0-dev \
+  gstreamer1.0-plugins-base \
+  gstreamer1.0-plugins-good \
+  gstreamer1.0-plugins-bad \
+  gstreamer1.0-plugins-ugly \
+  gstreamer1.0-libav \
+  gstreamer1.0-tools \
+  gstreamer1.0-x \
+  gstreamer1.0-alsa \
+  gstreamer1.0-gl \
+  gstreamer1.0-gtk3 \
+  gstreamer1.0-qt5 \
+  gstreamer1.0-pulseaudio \
+  libqt5gstreamer-dev \
+  libgstreamer1.0-dev \
+  libgstreamermm-1.0-dev xvfb libjavascriptcoregtk-6.0-1 libwebkitgtk-6.0-4
