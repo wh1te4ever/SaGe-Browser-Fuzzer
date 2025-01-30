@@ -160,6 +160,9 @@
 <tagname> = meta
 <tagname> = meter
 <tagname> = multicol
+<tagname> = attachment
+<tagname> = color-profile
+<tagname> = search
 <tagname> = nav
 <tagname> = nobr
 <tagname> = noembed
