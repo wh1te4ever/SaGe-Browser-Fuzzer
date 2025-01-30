@@ -229,6 +229,7 @@
 <cssproperty_name> = -webkit-print-color-adjust
 <cssproperty_name> = -webkit-rtl-ordering
 <cssproperty_name> = -webkit-text-zoom
+<cssproperty_name> = -webkit-cursor-visibility
 <cssproperty_name> = -webkit-ruby-position
 <cssproperty_name> = -webkit-shape-margin
 <cssproperty_name> = -webkit-shape-outside
@@ -732,6 +733,7 @@
 <cssproperty_value> = <cssproperty_-webkit-print-color-adjust>
 <cssproperty_value> = <cssproperty_-webkit-rtl-ordering>
 <cssproperty_value> = <cssproperty_-webkit-text-zoom>
+<cssproperty_value> = <cssproperty_-webkit-cursor-visibility>
 <cssproperty_value> = <cssproperty_-webkit-ruby-position>
 <cssproperty_value> = <cssproperty_-webkit-shape-margin>
 <cssproperty_value> = <cssproperty_-webkit-shape-outside>
@@ -1235,6 +1237,7 @@
 <cssproperty> = -webkit-print-color-adjust: <cssproperty_-webkit-print-color-adjust>
 <cssproperty> = -webkit-rtl-ordering: <cssproperty_-webkit-rtl-ordering>
 <cssproperty> = -webkit-text-zoom: <cssproperty_-webkit-text-zoom>
+<cssproperty> = -webkit-cursor-visibility: <cssproperty_-webkit-cursor-visibility>
 <cssproperty> = -webkit-ruby-position: <cssproperty_-webkit-ruby-position>
 <cssproperty> = -webkit-shape-margin: <cssproperty_-webkit-shape-margin>
 <cssproperty> = -webkit-shape-outside: <cssproperty_-webkit-shape-outside>

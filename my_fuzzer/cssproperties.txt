@@ -603,6 +603,9 @@
 <cssproperty_-webkit-text-zoom> = normal
 <cssproperty_-webkit-text-zoom> = reset
 
+<cssproperty_-webkit-cursor-visibility> = auto
+<cssproperty_-webkit-cursor-visibility> = auto-hide
+
 <cssproperty_-webkit-ruby-position> = before
 <cssproperty_-webkit-ruby-position> = after
 
