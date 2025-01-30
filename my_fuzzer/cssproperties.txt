@@ -3280,10 +3280,16 @@
 <cssproperty_text-align> = top
 <cssproperty_text-align> = -webkit-center
 <cssproperty_text-align> = right left
-<cssproperty_text-align> = -webkit-left
 <cssproperty_text-align> = inherit
+<cssproperty_text-align> = -webkit-auto
+<cssproperty_text-align> = -webkit-left
+<cssproperty_text-align> = -webkit-right
+<cssproperty_text-align> = -webkit-center
 <cssproperty_text-align> = -webkit-match-parent
+<cssproperty_text-align> = -internal-th-center
 <cssproperty_text-align> = -moz-center
+<cssproperty_text-align> = match-parent
+<cssproperty_text-align> = justify-all
 
 <cssproperty_text-align-last> = justify
 <cssproperty_text-align-last> = end
