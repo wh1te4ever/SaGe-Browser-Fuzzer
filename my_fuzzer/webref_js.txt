@@ -19014,6 +19014,7 @@ freememory();
 <CSSStyleDeclaration>.setProperty("-webkit-perspective-origin-y", "<cssproperty_-webkit-perspective-origin-y>");
 <CSSStyleDeclaration>.setProperty("-webkit-print-color-adjust", "<cssproperty_-webkit-print-color-adjust>");
 <CSSStyleDeclaration>.setProperty("-webkit-rtl-ordering", "<cssproperty_-webkit-rtl-ordering>");
+<CSSStyleDeclaration>.setProperty("-webkit-text-zoom", "<cssproperty_-webkit-text-zoom>");
 <CSSStyleDeclaration>.setProperty("-webkit-ruby-position", "<cssproperty_-webkit-ruby-position>");
 <CSSStyleDeclaration>.setProperty("-webkit-shape-margin", "<cssproperty_-webkit-shape-margin>");
 <CSSStyleDeclaration>.setProperty("-webkit-shape-outside", "<cssproperty_-webkit-shape-outside>");

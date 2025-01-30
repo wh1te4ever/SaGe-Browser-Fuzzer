@@ -573,6 +573,9 @@
 <cssproperty_-webkit-rtl-ordering> = logical
 <cssproperty_-webkit-rtl-ordering> = visual
 
+<cssproperty_-webkit-text-zoom> = normal
+<cssproperty_-webkit-text-zoom> = reset
+
 <cssproperty_-webkit-ruby-position> = before
 <cssproperty_-webkit-ruby-position> = after
 
