@@ -5529,6 +5529,11 @@
 <cssproperty_dominant-baseline> = mathematical
 <cssproperty_dominant-baseline> = hanging
 <cssproperty_dominant-baseline> = text-top
+<cssproperty_dominant-baseline> = use-script
+<cssproperty_dominant-baseline> = reset-size
+<cssproperty_dominant-baseline> = alphabetic
+<cssproperty_dominant-baseline> = text-before-edge
+<cssproperty_dominant-baseline> = text-after-edge
 <vertical-align> = <cssproperty_vertical-align>
 <cssproperty_vertical-align> = first <alignment-baseline> <baseline-shift>
 <cssproperty_vertical-align> = first <alignment-baseline>
