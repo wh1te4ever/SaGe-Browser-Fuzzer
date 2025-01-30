@@ -485,6 +485,11 @@
 
 <cssproperty_-webkit-marquee-speed> = <fuzzint>
 
+<cssproperty_-webkit-marquee-style> = none
+<cssproperty_-webkit-marquee-style> = slide
+<cssproperty_-webkit-marquee-style> = scroll
+<cssproperty_-webkit-marquee-style> = alternate
+
 <cssproperty_-webkit-mask> = url(<cssurl>)
 <cssproperty_-webkit-mask> = below url(<cssurl>)
 <cssproperty_-webkit-mask> = below none
