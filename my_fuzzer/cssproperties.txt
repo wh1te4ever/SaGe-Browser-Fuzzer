@@ -27,19 +27,46 @@
 <cssproperty_-webkit-align-content> = center
 <cssproperty_-webkit-align-content> = space-around
 <cssproperty_-webkit-align-content> = stretch
+<cssproperty_-webkit-align-content> = normal
+<cssproperty_-webkit-align-content> = space-evenly
+<cssproperty_-webkit-align-content> = first
+<cssproperty_-webkit-align-content> = last
+<cssproperty_-webkit-align-content> = baseline
+<cssproperty_-webkit-align-content> = unsafe
+<cssproperty_-webkit-align-content> = safe
+<cssproperty_-webkit-align-content> = start
+<cssproperty_-webkit-align-content> = end
 
-<cssproperty_-webkit-align-items> = center
 <cssproperty_-webkit-align-items> = flex-start
 <cssproperty_-webkit-align-items> = flex-end
+<cssproperty_-webkit-align-items> = center
 <cssproperty_-webkit-align-items> = baseline
 <cssproperty_-webkit-align-items> = stretch
+<cssproperty_-webkit-align-items> = normal
+<cssproperty_-webkit-align-items> = first
+<cssproperty_-webkit-align-items> = last
+<cssproperty_-webkit-align-items> = safe
+<cssproperty_-webkit-align-items> = unsafe
+<cssproperty_-webkit-align-items> = start
+<cssproperty_-webkit-align-items> = end
+<cssproperty_-webkit-align-items> = self-start
+<cssproperty_-webkit-align-items> = self-end
 
-<cssproperty_-webkit-align-self> = stretch
 <cssproperty_-webkit-align-self> = auto
 <cssproperty_-webkit-align-self> = flex-start
 <cssproperty_-webkit-align-self> = flex-end
 <cssproperty_-webkit-align-self> = center
 <cssproperty_-webkit-align-self> = baseline
+<cssproperty_-webkit-align-self> = stretch
+<cssproperty_-webkit-align-self> = normal
+<cssproperty_-webkit-align-self> = first
+<cssproperty_-webkit-align-self> = last
+<cssproperty_-webkit-align-self> = safe
+<cssproperty_-webkit-align-self> = unsafe
+<cssproperty_-webkit-align-self> = start
+<cssproperty_-webkit-align-self> = end
+<cssproperty_-webkit-align-self> = self-start
+<cssproperty_-webkit-align-self> = self-end
 
 <cssproperty_-webkit-animation> = anim <fuzzint>s
 <cssproperty_-webkit-animation> = anim <fuzzint>s linear
@@ -119,6 +146,10 @@
 <cssproperty_-webkit-appearance> = caps-lock-indicator
 <cssproperty_-webkit-appearance> = progress-bar
 <cssproperty_-webkit-appearance> = meter
+<cssproperty_-webkit-appearance> = checkbox
+<cssproperty_-webkit-appearance> = listbox
+<cssproperty_-webkit-appearance> = menulist
+<cssproperty_-webkit-appearance> = searchfield
 
 <cssproperty_-webkit-backface-visibility> = hidden
 <cssproperty_-webkit-backface-visibility> = visible
@@ -159,7 +190,16 @@
 
 <cssproperty_-webkit-border-before-color> = <color>
 
+<cssproperty_-webkit-border-before-style> = none
+<cssproperty_-webkit-border-before-style> = hidden
+<cssproperty_-webkit-border-before-style> = inset
+<cssproperty_-webkit-border-before-style> = groove
+<cssproperty_-webkit-border-before-style> = outset
+<cssproperty_-webkit-border-before-style> = ridge
+<cssproperty_-webkit-border-before-style> = dotted
 <cssproperty_-webkit-border-before-style> = dashed
+<cssproperty_-webkit-border-before-style> = solid
+<cssproperty_-webkit-border-before-style> = double
 
 <cssproperty_-webkit-border-before-width> = <fuzzint>px
 
@@ -207,10 +247,14 @@
 <cssproperty_-webkit-box-align> = center
 <cssproperty_-webkit-box-align> = stretch
 <cssproperty_-webkit-box-align> = top
+<cssproperty_-webkit-box-align> = start
+<cssproperty_-webkit-box-align> = end
+<cssproperty_-webkit-box-align> = baseline
 
 <cssproperty_-webkit-box-decoration-break> = slice
 <cssproperty_-webkit-box-decoration-break> = clone
 
+<cssproperty_-webkit-box-direction> = normal
 <cssproperty_-webkit-box-direction> = reverse
 
 <cssproperty_-webkit-box-flex> = <fuzzint>
@@ -219,17 +263,22 @@
 <cssproperty_-webkit-box-flex-group> = 1
 <cssproperty_-webkit-box-flex-group> = 2
 
+<cssproperty_-webkit-box-lines> = single
 <cssproperty_-webkit-box-lines> = multiple
 
 <cssproperty_-webkit-box-ordinal-group> = <fuzzint>
 <cssproperty_-webkit-box-ordinal-group> = 1
 <cssproperty_-webkit-box-ordinal-group> = 2
 
+<cssproperty_-webkit-box-orient> = horizontal
+<cssproperty_-webkit-box-orient> = inline-axis
 <cssproperty_-webkit-box-orient> = vertical
 <cssproperty_-webkit-box-orient> = horizontal
 <cssproperty_-webkit-box-orient> = block-axis
 
 <cssproperty_-webkit-box-pack> = justify
+<cssproperty_-webkit-box-pack> = center
+<cssproperty_-webkit-box-pack> = start
 <cssproperty_-webkit-box-pack> = end
 
 <cssproperty_-webkit-box-reflect> = above
@@ -379,19 +428,31 @@
 <cssproperty_-webkit-hyphens> = auto
 <cssproperty_-webkit-hyphens> = none
 
+<cssproperty_-webkit-justify-content> = normal
 <cssproperty_-webkit-justify-content> = flex-start
 <cssproperty_-webkit-justify-content> = flex-end
 <cssproperty_-webkit-justify-content> = center
 <cssproperty_-webkit-justify-content> = space-between
 <cssproperty_-webkit-justify-content> = space-around
+<cssproperty_-webkit-justify-content> = space-evenly
+<cssproperty_-webkit-justify-content> = stretch
+<cssproperty_-webkit-justify-content> = safe
+<cssproperty_-webkit-justify-content> = unsafe
+<cssproperty_-webkit-justify-content> = start
+<cssproperty_-webkit-justify-content> = end
+<cssproperty_-webkit-justify-content> = left
+<cssproperty_-webkit-justify-content> = right
 
+<cssproperty_-webkit-line-break> = auto
+<cssproperty_-webkit-line-break> = loose
 <cssproperty_-webkit-line-break> = normal
 <cssproperty_-webkit-line-break> = after-white-space
 
 <cssproperty_-webkit-line-clamp> = <fuzzint>
 
 <cssproperty_-webkit-locale> = 'zh_CN'
-<cssproperty_-webkit-locale> = 'zh_CN'
+<cssproperty_-webkit-locale> = 'ko_KR'
+<cssproperty_-webkit-locale> = 'en_US'
 
 <cssproperty_-webkit-logical-height> = <fuzzint>px
 
@@ -457,6 +518,9 @@
 <cssproperty_-webkit-mask-origin> = border
 <cssproperty_-webkit-mask-origin> = content-box
 <cssproperty_-webkit-mask-origin> = padding
+<cssproperty_-webkit-mask-origin> = fill-box
+<cssproperty_-webkit-mask-origin> = stroke-box
+<cssproperty_-webkit-mask-origin> = view-box
 
 <cssproperty_-webkit-mask-position> = <fuzzint>px <fuzzint>px
 
@@ -478,6 +542,7 @@
 
 <cssproperty_-webkit-min-logical-height> = <fuzzint>px
 
+<cssproperty_-webkit-nbsp-mode> = normal
 <cssproperty_-webkit-nbsp-mode> = space
 
 <cssproperty_-webkit-opacity> = <float>
@@ -508,6 +573,7 @@
 <cssproperty_-webkit-rtl-ordering> = logical
 <cssproperty_-webkit-rtl-ordering> = visual
 
+<cssproperty_-webkit-ruby-position> = before
 <cssproperty_-webkit-ruby-position> = after
 
 <cssproperty_-webkit-shape-margin> = <fuzzint>px
@@ -520,7 +586,11 @@
 <cssproperty_-webkit-text-combine> = horizontal
 <cssproperty_-webkit-text-combine> = none
 
+<cssproperty_-webkit-text-decorations-in-effect> = none
 <cssproperty_-webkit-text-decorations-in-effect> = underline
+<cssproperty_-webkit-text-decorations-in-effect> = overline
+<cssproperty_-webkit-text-decorations-in-effect> = line-through
+<cssproperty_-webkit-text-decorations-in-effect> = blink
 
 <cssproperty_-webkit-text-emphasis> = filled
 <cssproperty_-webkit-text-emphasis> = filled <color>
@@ -545,6 +615,8 @@
 
 <cssproperty_-webkit-text-emphasis-position> = under
 <cssproperty_-webkit-text-emphasis-position> = over
+<cssproperty_-webkit-text-emphasis-position> = left
+<cssproperty_-webkit-text-emphasis-position> = right
 
 <cssproperty_-webkit-text-emphasis-style> = filled
 <cssproperty_-webkit-text-emphasis-style> = 'w'
@@ -558,6 +630,7 @@
 <cssproperty_-webkit-text-orientation> = upright
 <cssproperty_-webkit-text-orientation> = sideways
 <cssproperty_-webkit-text-orientation> = vertical-right
+<cssproperty_-webkit-text-orientation> = mixed
 
 <cssproperty_-webkit-text-security> = disc
 <cssproperty_-webkit-text-security> = circle
@@ -647,6 +720,7 @@
 
 <cssproperty_-webkit-user-drag> = element
 <cssproperty_-webkit-user-drag> = none
+<cssproperty_-webkit-user-drag> = auto
 
 <cssproperty_-webkit-user-modify> = read-only
 <cssproperty_-webkit-user-modify> = read-write
@@ -664,7 +738,17 @@
 <cssproperty_-webkit-writing-mode> = vertical-rl
 <cssproperty_-webkit-writing-mode> = vertical-lr
 <cssproperty_-webkit-writing-mode> = horizontal-tb
+<cssproperty_-webkit-writing-mode> = horizontal-lr
+<cssproperty_-webkit-writing-mode> = horizontal-bt
 <cssproperty_-webkit-writing-mode> = vertical-tb
+<cssproperty_-webkit-writing-mode> = sideways-lr
+<cssproperty_-webkit-writing-mode> = sideways-rl
+<cssproperty_-webkit-writing-mode> = lr-tb 
+<cssproperty_-webkit-writing-mode> = rl-tb 
+<cssproperty_-webkit-writing-mode> = tb-rl 
+<cssproperty_-webkit-writing-mode> = lr 
+<cssproperty_-webkit-writing-mode> = rl 
+<cssproperty_-webkit-writing-mode> = tb 
 
 <cssproperty_align-content> = stretch
 <cssproperty_align-content> = end
@@ -698,6 +782,8 @@
 <cssproperty_align-content> = right safe unsafe
 <cssproperty_align-content> = center left
 <cssproperty_align-content> = end safe
+<cssproperty_align-content> = first
+<cssproperty_align-content> = last
 
 <cssproperty_align-items> = flex-start
 <cssproperty_align-items> = end unsafe
