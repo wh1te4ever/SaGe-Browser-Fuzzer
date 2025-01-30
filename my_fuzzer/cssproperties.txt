@@ -160,6 +160,7 @@
 <cssproperty_-webkit-background-clip> = content-box
 <cssproperty_-webkit-background-clip> = padding
 <cssproperty_-webkit-background-clip> = content
+<cssproperty_-webkit-background-clip> = -webkit-text
 
 <cssproperty_-webkit-background-origin> = initial
 <cssproperty_-webkit-background-origin> = padding-box
@@ -965,6 +966,7 @@
 <cssproperty_background-clip> = border-box
 <cssproperty_background-clip> = content-box, padding-box, border-box
 <cssproperty_background-clip> = content-box, border-box
+<cssproperty_background-clip> = -webkit-text
 
 <cssproperty_background-color> = <color>
 
