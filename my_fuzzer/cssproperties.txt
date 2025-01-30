@@ -308,6 +308,10 @@
 <cssproperty_-webkit-color-correction> = sRGB
 <cssproperty_-webkit-color-correction> = default
 
+<cssproperty_-webkit-column-axis> = horizontal
+<cssproperty_-webkit-column-axis> = vertical
+<cssproperty_-webkit-column-axis> = auto
+
 <cssproperty_-webkit-column-break-after> = always
 
 <cssproperty_-webkit-column-break-before> = always

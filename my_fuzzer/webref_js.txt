@@ -18944,6 +18944,7 @@ freememory();
 <CSSStyleDeclaration>.setProperty("-webkit-box-sizing", "<cssproperty_-webkit-box-sizing>");
 <CSSStyleDeclaration>.setProperty("-webkit-clip-path", "<cssproperty_-webkit-clip-path>");
 <CSSStyleDeclaration>.setProperty("-webkit-color-correction", "<cssproperty_-webkit-color-correction>");
+<CSSStyleDeclaration>.setProperty("-webkit-column-axis", "<cssproperty_-webkit-column-axis>");
 <CSSStyleDeclaration>.setProperty("-webkit-column-break-after", "<cssproperty_-webkit-column-break-after>");
 <CSSStyleDeclaration>.setProperty("-webkit-column-break-before", "<cssproperty_-webkit-column-break-before>");
 <CSSStyleDeclaration>.setProperty("-webkit-column-break-inside", "<cssproperty_-webkit-column-break-inside>");

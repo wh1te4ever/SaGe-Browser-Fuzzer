@@ -151,6 +151,7 @@
 <cssproperty_name> = -webkit-box-sizing
 <cssproperty_name> = -webkit-clip-path
 <cssproperty_name> = -webkit-color-correction
+<cssproperty_name> = -webkit-column-axis
 <cssproperty_name> = -webkit-column-break-after
 <cssproperty_name> = -webkit-column-break-before
 <cssproperty_name> = -webkit-column-break-inside
@@ -650,6 +651,7 @@
 <cssproperty_value> = <cssproperty_-webkit-box-sizing>
 <cssproperty_value> = <cssproperty_-webkit-clip-path>
 <cssproperty_value> = <cssproperty_-webkit-color-correction>
+<cssproperty_value> = <cssproperty_-webkit-column-axis>
 <cssproperty_value> = <cssproperty_-webkit-column-break-after>
 <cssproperty_value> = <cssproperty_-webkit-column-break-before>
 <cssproperty_value> = <cssproperty_-webkit-column-break-inside>
@@ -1149,6 +1151,7 @@
 <cssproperty> = -webkit-box-sizing: <cssproperty_-webkit-box-sizing>
 <cssproperty> = -webkit-clip-path: <cssproperty_-webkit-clip-path>
 <cssproperty> = -webkit-color-correction: <cssproperty_-webkit-color-correction>
+<cssproperty> = -webkit-column-axis: <cssproperty_-webkit-column-axis>
 <cssproperty> = -webkit-column-break-after: <cssproperty_-webkit-column-break-after>
 <cssproperty> = -webkit-column-break-before: <cssproperty_-webkit-column-break-before>
 <cssproperty> = -webkit-column-break-inside: <cssproperty_-webkit-column-break-inside>
