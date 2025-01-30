@@ -2326,8 +2326,11 @@
 <cssproperty_image-orientation> = from-image
 
 <cssproperty_image-rendering> = pixelated
+<cssproperty_image-rendering> = -webkit-crisp-edges
 <cssproperty_image-rendering> = -webkit-optimize-contrast
 <cssproperty_image-rendering> = auto
+<cssproperty_image-rendering> = optimizeSpeed
+<cssproperty_image-rendering> = optimizeQuality
 
 <cssproperty_isolation> = isolate
 <cssproperty_isolation> = auto
