@@ -490,6 +490,16 @@
 <cssproperty_-webkit-marquee-style> = scroll
 <cssproperty_-webkit-marquee-style> = alternate
 
+<cssproperty_-webkit-marquee-direction> = forwards
+<cssproperty_-webkit-marquee-direction> = backwards
+<cssproperty_-webkit-marquee-direction> = ahead
+<cssproperty_-webkit-marquee-direction> = reverse
+<cssproperty_-webkit-marquee-direction> = left
+<cssproperty_-webkit-marquee-direction> = right
+<cssproperty_-webkit-marquee-direction> = down
+<cssproperty_-webkit-marquee-direction> = up
+<cssproperty_-webkit-marquee-direction> = auto
+
 <cssproperty_-webkit-mask> = url(<cssurl>)
 <cssproperty_-webkit-mask> = below url(<cssurl>)
 <cssproperty_-webkit-mask> = below none

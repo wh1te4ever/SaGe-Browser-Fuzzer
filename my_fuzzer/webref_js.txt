@@ -18986,6 +18986,7 @@ freememory();
 <CSSStyleDeclaration>.setProperty("-webkit-margin-top-collapse", "<cssproperty_-webkit-margin-top-collapse>");
 <CSSStyleDeclaration>.setProperty("-webkit-marquee-speed", "<cssproperty_-webkit-marquee-speed>");
 <CSSStyleDeclaration>.setProperty("-webkit-marquee-style", "<cssproperty_-webkit-marquee-style>");
+<CSSStyleDeclaration>.setProperty("-webkit-marquee-direction", "<cssproperty_-webkit-marquee-direction>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask", "<cssproperty_-webkit-mask>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-box-image", "<cssproperty_-webkit-mask-box-image>");
 <CSSStyleDeclaration>.setProperty("-webkit-mask-box-image-outset", "<cssproperty_-webkit-mask-box-image-outset>");
