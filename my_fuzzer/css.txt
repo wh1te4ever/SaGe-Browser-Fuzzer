@@ -194,6 +194,7 @@
 <cssproperty_name> = -webkit-marquee-speed
 <cssproperty_name> = -webkit-marquee-style
 <cssproperty_name> = -webkit-marquee-direction
+<cssproperty_name> = -webkit-column-progression
 <cssproperty_name> = -webkit-mask
 <cssproperty_name> = -webkit-mask-box-image
 <cssproperty_name> = -webkit-mask-box-image-outset
@@ -692,6 +693,7 @@
 <cssproperty_value> = <cssproperty_-webkit-marquee-speed>
 <cssproperty_value> = <cssproperty_-webkit-marquee-style>
 <cssproperty_value> = <cssproperty_-webkit-marquee-direction>
+<cssproperty_value> = <cssproperty_-webkit-column-progression>
 <cssproperty_value> = <cssproperty_-webkit-mask>
 <cssproperty_value> = <cssproperty_-webkit-mask-box-image>
 <cssproperty_value> = <cssproperty_-webkit-mask-box-image-outset>
@@ -1190,6 +1192,7 @@
 <cssproperty> = -webkit-marquee-speed: <cssproperty_-webkit-marquee-speed>
 <cssproperty> = -webkit-marquee-style: <cssproperty_-webkit-marquee-style>
 <cssproperty> = -webkit-marquee-direction: <cssproperty_-webkit-marquee-direction>
+<cssproperty> = -webkit-column-progression: <cssproperty_-webkit-column-progression>
 <cssproperty> = -webkit-mask: <cssproperty_-webkit-mask>
 <cssproperty> = -webkit-mask-box-image: <cssproperty_-webkit-mask-box-image>
 <cssproperty> = -webkit-mask-box-image-outset: <cssproperty_-webkit-mask-box-image-outset>

@@ -500,6 +500,9 @@
 <cssproperty_-webkit-marquee-direction> = up
 <cssproperty_-webkit-marquee-direction> = auto
 
+<cssproperty_-webkit-column-progression> = normal
+<cssproperty_-webkit-column-progression> = reverse
+
 <cssproperty_-webkit-mask> = url(<cssurl>)
 <cssproperty_-webkit-mask> = below url(<cssurl>)
 <cssproperty_-webkit-mask> = below none
