@@ -4006,6 +4006,7 @@
 <CSSStyleDeclaration>.setProperty("-webkit-border-top-left-radius", "<cssproperty_-webkit-border-top-left-radius>");
 <CSSStyleDeclaration>.setProperty("-webkit-border-top-right-radius", "<cssproperty_-webkit-border-top-right-radius>");
 <CSSStyleDeclaration>.setProperty("-webkit-border-vertical-spacing", "<cssproperty_-webkit-border-vertical-spacing>");
+<CSSStyleDeclaration>.setProperty("-webkit-border-horizontal-spacing", "<cssproperty_-webkit-border-horizontal-spacing>");
 <CSSStyleDeclaration>.setProperty("-webkit-box-align", "<cssproperty_-webkit-box-align>");
 <CSSStyleDeclaration>.setProperty("-webkit-box-decoration-break", "<cssproperty_-webkit-box-decoration-break>");
 <CSSStyleDeclaration>.setProperty("-webkit-box-direction", "<cssproperty_-webkit-box-direction>");

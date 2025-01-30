@@ -242,6 +242,7 @@
 <cssproperty_-webkit-border-top-right-radius> = <fuzzint>px
 <cssproperty_-webkit-border-top-right-radius> = <fuzzint>px <fuzzint>px
 
+<cssproperty_-webkit-border-horizontal-spacing> = <fuzzint>px
 <cssproperty_-webkit-border-vertical-spacing> = <fuzzint>px
 
 <cssproperty_-webkit-box-align> = center

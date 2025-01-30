@@ -136,6 +136,7 @@
 <cssproperty_name> = -webkit-border-start-width
 <cssproperty_name> = -webkit-border-top-left-radius
 <cssproperty_name> = -webkit-border-top-right-radius
+<cssproperty_name> = -webkit-border-horizontal-spacing
 <cssproperty_name> = -webkit-border-vertical-spacing
 <cssproperty_name> = -webkit-box-align
 <cssproperty_name> = -webkit-box-decoration-break
@@ -636,6 +637,7 @@
 <cssproperty_value> = <cssproperty_-webkit-border-start-width>
 <cssproperty_value> = <cssproperty_-webkit-border-top-left-radius>
 <cssproperty_value> = <cssproperty_-webkit-border-top-right-radius>
+<cssproperty_value> = <cssproperty_-webkit-border-horizontal-spacing>
 <cssproperty_value> = <cssproperty_-webkit-border-vertical-spacing>
 <cssproperty_value> = <cssproperty_-webkit-box-align>
 <cssproperty_value> = <cssproperty_-webkit-box-decoration-break>
@@ -1136,6 +1138,7 @@
 <cssproperty> = -webkit-border-start-width: <cssproperty_-webkit-border-start-width>
 <cssproperty> = -webkit-border-top-left-radius: <cssproperty_-webkit-border-top-left-radius>
 <cssproperty> = -webkit-border-top-right-radius: <cssproperty_-webkit-border-top-right-radius>
+<cssproperty> = -webkit-border-horizontal-spacing: <cssproperty_-webkit-border-horizontal-spacing>
 <cssproperty> = -webkit-border-vertical-spacing: <cssproperty_-webkit-border-vertical-spacing>
 <cssproperty> = -webkit-box-align: <cssproperty_-webkit-box-align>
 <cssproperty> = -webkit-box-decoration-break: <cssproperty_-webkit-box-decoration-break>
